@@ -1,0 +1,3 @@
+Hello world, this is a much better way to learn CLI and the many operations of Git. 
+Odin is With Us.
+See you in Valhalla!
